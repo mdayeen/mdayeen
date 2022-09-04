@@ -4,10 +4,12 @@
 
 
 Hello there !<br>👨🏻‍💻  <br>I am a coding enthusiast in the area of web development, web designing. <br>Currently enrolled in Cohort A22 Code for India Foundation.<br>I'm pursuing my 3rd year in Computer Science Engineering.<br>On way to become a fantastic programmer. <br>Interested in Marketing, Business, Products, Computer Networks UI UX Design.<br><br><br>
+MAIL ME : ayeen0410@gmail.com
 
 ## 🌐 Socials:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-ayeen-u) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mdayeen) 
+      
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.ayeen.u)
 
