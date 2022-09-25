@@ -2,7 +2,7 @@
 
 <h2 align="center" >Fellow at <b><i>Code for India</i></b> -Class of 2021 </h2>
 
-
+<a href="https://app.daily.dev/mdayeen"><img src="https://api.daily.dev/devcards/acdadb9a0bcc4741ba5c33b2f311bfe8.png?r=4lx" width="250" align="right" alt="Mohammed Ayeenuddin's Dev Card"/></a>
 
 <span>&#8608;</span>Hello<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"> <br> <br>I am <strong><span>Mohammed Ayeenuddin</span></strong>, coding enthusiast in the area of web development, web designing. <br>Currently enrolled in Cohort A22 Code for India Foundation.<br>I'm pursuing my graduation in Computer Science Engineering.<br>On way to become a fantastic programmer. <br><ul><strong>Interested in</strong> <li>Marketing</li> <li>Business</li> <li>Products</li> <li>Computer Networks</li><li>UI UX</li></ul> <br>
 
