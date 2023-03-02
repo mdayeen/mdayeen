@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.imgur.com/0AqCLX5.png">
+
 
 <h2 align="center" >Fellow at <b><i>Code for India</i></b> -Class of 2021 </h2>
 
